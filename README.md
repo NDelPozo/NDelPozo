@@ -16,7 +16,7 @@
 
 <br>
 
-Hello! I'm Nicolas, a passionate FullStack developer. During my time at Henry I gained experience working with technologies such as Javascript, Node, React, Express, PostgreSQL and other technologies in the sector. Having participated and completed 2 final projects, I was able to expand my skills learnt in the bootcamp by learning technologies such as Next js and MongoDb.
+Hello! I'm Nicolas, a passionate FullStack developer and I recently finished soyHenry bootcamp. During my time at soyHenry I gained experience working with technologies such as Javascript, Node, React, Express, PostgreSQL and other technologies in the sector. Having participated and completed 2 final projects, I was able to expand my skills learnt in the bootcamp by learning technologies such as Next js and MongoDb.
 
 I am a curious person and this curiosity leads me to continue learning and developing my skills constantly. Throughout Henry and my two projects I was able to work with various work teams where I had to adapt to different work methodologies.
 
